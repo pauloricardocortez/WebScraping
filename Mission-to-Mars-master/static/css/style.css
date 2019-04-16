@@ -1,0 +1,16 @@
+h1 {
+  color: #370202 !important;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin-bottom: 15px;
+}
+
+hr {
+  display: block;
+  height: 3px;
+  border-color: #370202
+}
